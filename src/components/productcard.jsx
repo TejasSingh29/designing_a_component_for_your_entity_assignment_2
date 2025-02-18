@@ -4,8 +4,8 @@ import ViewButton from "../components/button";
 
 const Productcard = () => {
   // Static product details
-  const productImage = "https://iso.500px.com/wp-content/uploads/2016/02/stock-photo-114337435-1500x1000.jpg";
-  const productName = "Sample Product";
+  const productImage = "https://tse1.mm.bing.net/th?id=OIP.P66iRyrKMk2OemWy00gajQHaG7&pid=Api&P=0&h=180";
+  const productName = "Camera";
   const price = "$49.99";
 
   return (
